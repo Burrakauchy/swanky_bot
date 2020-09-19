@@ -1,0 +1,6 @@
+{
+    "prefix" : "??",
+    "break_time": "15",
+    "true_phrase" : ":green_book: **Bonne réponse !!**",
+    "false_phrase": ":rotating_light:  **Raté !!**"
+}
